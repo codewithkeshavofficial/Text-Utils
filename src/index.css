@@ -1,0 +1,13 @@
+button.accordion-button::after{
+    filter: invert(1);
+<<<<<<< Updated upstream
+=======
+  }
+
+  .wrapper .text-input{
+    display: flex;
+    border-bottom: 1px solid #bbb;
+    border: none;
+    outline: none;
+>>>>>>> Stashed changes
+  }

@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .translator{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #102f5e;
+  }
+
+  .container{
+    width: 700px;
+    background: #fff;
+    border: 2px solid gray;
+  }
